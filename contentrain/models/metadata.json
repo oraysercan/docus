@@ -6,5 +6,13 @@
     "localization": false,
     "type": "MD",
     "createdBy": "user"
+  },
+  {
+    "name": "dddd",
+    "description": "aaaa",
+    "modelId": "dddd",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
