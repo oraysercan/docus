@@ -1,0 +1,10 @@
+[
+  {
+    "name": "deneme",
+    "description": "açıklama",
+    "modelId": "deneme",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user"
+  }
+]
