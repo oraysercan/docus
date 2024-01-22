@@ -88,5 +88,15 @@
     "system": true,
     "defaultField": false,
     "modelId": "deneme"
+  },
+  {
+    "name": "blog",
+    "description": "burası blog",
+    "fieldId": "blog",
+    "modelId": "deneme",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
