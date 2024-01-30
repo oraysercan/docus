@@ -87,5 +87,25 @@
     },
     "validations": {},
     "fieldType": "array"
+  },
+  {
+    "name": "asdasdasd",
+    "description": "dddd",
+    "fieldId": "asdasdasd",
+    "modelId": "aaaq",
+    "componentId": "date",
+    "options": {
+      "title-field": {
+        "value": true
+      },
+      "default-value": {
+        "value": true,
+        "form": {
+          "date": {}
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "date"
   }
 ]
