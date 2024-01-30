@@ -14,5 +14,12 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "aaaq",
+    "modelId": "aaaq",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
