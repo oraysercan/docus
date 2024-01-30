@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "aaaq"
+  },
+  {
+    "name": "aaa",
+    "fieldId": "aaa",
+    "modelId": "aaaq",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
